@@ -5,7 +5,8 @@ An [Octopress v3](https://github.com/octopress/octopress) blog wherein Womply de
 ## Local Setup
 
 1. Clone it.
-   ```git@github.com:womply/womply.github.io.git```
+
+   `git clone git@github.com:womply/womply.github.io.git`
 
 2. Bundle it.
    ```cd womply.github.io && bundle install```
